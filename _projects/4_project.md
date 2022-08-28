@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: attentional engagement
+description: Investigating the dynamics of attentional fluctuation during event perception and encoding.
 img:
 importance: 3
-category: fun
+category: 
 ---
 
 Every project has a beautiful feature showcase page.
