@@ -20,7 +20,7 @@ In this paper we ask whether measures (new and existing; Fig 1) that quantify se
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/esMethods_Fig1.jpg" title="esMethods_Fig1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/esMethod_Fig1.jpg" title="esMethods_Fig1" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -32,7 +32,7 @@ First, we bootstrapped segmentation task performance collected *in-lab* and *onl
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/esMethods_Fig2.jpg" title="esMethods_Fig2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/esMethod_Fig2.jpg" title="esMethods_Fig2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -47,10 +47,10 @@ For almost all measures, we found:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/esMethods_Table1.jpg" title="esMethods_Table1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/esMethod_T1.jpg" title="esMethods_Table1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/esMethods_Fig3.jpg" title="esMethods_Fig3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/esMethod_Fig3.jpg" title="esMethods_Fig3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
