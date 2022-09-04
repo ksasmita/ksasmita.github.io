@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <em>Cognitive Neuroscience</em> | <em><a href='https://psychology.cornell.edu/'>Cornell Psychology</a></em>
+subtitle: <em>Cognitive Neuroscientist</em> | <em><a href='https://psychology.cornell.edu/'>Cornell Psychology</a></em>
 profile:
   align: right
   image: prof_pic.jpg
