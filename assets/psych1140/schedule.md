@@ -17,6 +17,7 @@ category: course instructor
 * **Readings** : [[Schachter et al., (2007)](https://www.tandfonline.com/doi/abs/10.1080/08995600802554748)] [[TS/IS Chapter 1: They say](https://wwnorton.com/books/9780393538700)]
 * **In class activity** : [Identifying and defining a thesis](/assets/psych1140/files/Week1_ClassSheet2.pdf)
 
+<p></p>
 
 #### Week 2
 
@@ -28,5 +29,7 @@ category: course instructor
 **Thursday, 3 Feb** | *Is episodic memory uniquely human?*
 * **Readings** : [[Clayton & Dickinson (1998)](https://www.nature.com/articles/26216) and [explanation from brain science podcast](https://www.youtube.com/watch?v=k5Ioz1ZmKh0)] [[TS/IS Chapter 2: The art of summarizing](https://wwnorton.com/books/9780393538700)]
 * **In class activity** : [Plagiarism & summarizing](/assets/psych1140/files/Week2_ClassSheet2.pdf)
+
+<p></p>
 
 
