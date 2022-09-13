@@ -12,6 +12,7 @@ cv_pdf: Sasmita_Resume.pdf
     <img 
         src="/assets/img/Sasmita_Resume.png" 
         alt="Karen Sasmita's resume."
+        width="100%" height="Auto"
     >
 </a>
 
