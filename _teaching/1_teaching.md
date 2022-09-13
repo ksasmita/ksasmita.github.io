@@ -13,8 +13,7 @@ category: course instructor
 Welcome to the landing page for PSYCH1140 - Event Cognition: How people remember and experience events. I developed and delivered this course during the Fall'21 and Spring'22 semesters as part of [Cornell's First Year Writing Seminar](https://knight.as.cornell.edu/fws-guidelines) series. Here you can find: 
 
 - the course [syllabus](/assets/psych1140/syllabus),
-- the course [schedule](/assets/psych1140/schedule),
-- a collection of class worksheets, homeworks, and assignments. 
+- the course [schedule & materials](/assets/psych1140/schedule),
 
 ## A little bit about me
 
