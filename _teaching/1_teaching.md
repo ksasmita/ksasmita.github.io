@@ -8,9 +8,9 @@ category: course instructor
 ---
 
 # Wellcome to PYSCH1140 (Fall'21 & Spring'22)
-*This site is still continuously being updated.*
+*This page is still continuously being updated.*
 
-Welcome to the landing site for PSYCH1140 - Event Cognition: How people remember and experience events. I developed and delivered this course during the Fall'21 and Spring'22 semesters as part of [Cornell's First Year Writing Seminar](https://knight.as.cornell.edu/fws-guidelines) series. In this site you will find: 
+Welcome to the landing page for PSYCH1140 - Event Cognition: How people remember and experience events. I developed and delivered this course during the Fall'21 and Spring'22 semesters as part of [Cornell's First Year Writing Seminar](https://knight.as.cornell.edu/fws-guidelines) series. Here you can find: 
 
 - the course [syllabus](/assets/psych1140/syllabus),
 - the course [schedule](/assets/psych1140/schedule),
@@ -18,7 +18,7 @@ Welcome to the landing site for PSYCH1140 - Event Cognition: How people remember
 
 ## A little bit about me
 
-I'm currently a 5th year Ph.D. candidate in Cornell Psychology Department. Through this course, you'll see a little glimpse into my research interests and teaching philosophy. Please visit my main [website](https://ksasmita.github.io) to know more about me and my work. 
+I'm currently a 5th year Ph.D. candidate in Cornell Psychology Department. Through this course, you'll see a little glimpse into my research interests and teaching philosophy.
 
 ## To my students 
 
@@ -27,5 +27,5 @@ Thank you for giving me the opportunity to deliver this course, I learned so muc
 You can always contact me at <ss3837@cornell.edu>. Some reasons you may want to contact me: 
 - To say hi and give me some life updates
 - To ask for letter of recommendations 
-- To ask about grad school applications, my experience during Ph.D., or reserch more broadly 
+- To ask about grad school applications, my experience during Ph.D., or research more broadly 
 - To ask questions when you're not sure who to ask (I may not have the answer, but I may know people who do!)
