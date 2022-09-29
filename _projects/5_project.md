@@ -1,12 +1,15 @@
 ---
 layout: page
 title: tidy tuesday
-description: data visualization
+description: data project in R 
 img: 
 importance: 3
-category: fun
+category: data visualization
 ---
 
+This page contains my contribution to the [TidyTuesday](https://github.com/rfordatascience/tidytuesday) challenge. This challenge is intended for people to practice data wrangling and data visualization skills using at the R ecosystem. A new dataset is posted every Tuesday for the community to explore/ quantify/ process and use to make meaningful visualizations.  
+
+All figures on this page were created purely in R (no involvement of other software/ tools). Code for each plot can be found on my [GitHub](https://github.com/ksasmita/TidyTuesday) page. 
 
 <div>
     <p><span style="font-size:30px"><strong>(2022/09/06)</strong></span><a href = "https://rebrickable.com/downloads/"> Rebrickable </a> dataset <strong>|</strong><a href = "https://github.com/ksasmita/TidyTuesday/tree/main/220906">[code]</a></p>

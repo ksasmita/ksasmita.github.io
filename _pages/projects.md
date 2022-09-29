@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 1
-display_categories: [phd, fun]
+display_categories: [data visualization, phd]
 horizontal: false
 ---
 

@@ -59,4 +59,36 @@ category: course instructor
 
 <br>
 
+#### Week 5
 
+**Tuesday, 22 Feb** | *Cognitive map: importance for social communication and interactions*
+* **Readings** : [[Rice et al., 2017](https://www.sciencedirect.com/science/article/abs/pii/S0018506X17302027?casa_token=0bBk9QxKMBcAAAAA:I9OXpes5rQrFAZ2Vh9I1cqoyLCY1TMsROO84Jw8j4L5z_xaaKsZEFNYu5S4SeiZCt0WCe33hkdM)]
+* **In class activity** : [Paragraph organization and structure](/assets/psych1140/files/Week5_ClassSheet1.pdf)
+
+
+**Thursday, 24 Feb** | *Peer review day*
+* **Readings** : [(Fun read) Maguire et al., 2000](https://elifesciences.org/articles/16534v1)
+* **In class activity** : [Guess the argument](/assets/psych1140/files/PSYCH1140_PeerReview1.pdf). *This exercise won the [John S. Knight Award](https://knight.as.cornell.edu/knight-prizes-awards#prizes-for-instructors) honorable mention.* 
+
+<br>
+
+#### Week 6
+
+**Tuesday, 1 Mar** | *February break - no class*
+
+**Thursday, 3 Mar** | *Neuro Behavior debate - introduction*
+* **Readings** : [[Cushman, 2020](https://www-taylorfrancis-com.proxy.library.cornell.edu/chapters/edit/10.4324/9781003026273-15/cognitive-neuroscience-oxymoron-fiery-cushman)] [[Niv, 2021](https://psycnet.apa.org/record/2021-53272-001)] [[TS/IS Chapter 4: "Yes/ No/ Okay, But" Three ways to respond](https://wwnorton.com/books/9780393538700)]
+* **In class activity** : [Debate introduction](/assets/psych1140/files/Week6_ClassSheet1.pdf). 
+* **Assignment** (due 4 Mar): [Assignment 3](/assets/psych1140/files/PSYCH1140 Assignment3.pdf)
+
+<br>
+
+#### Week 7
+
+**Tuesday, 8 Mar** | *Neuro Behavior debate - class preparation*
+* **Readings** : [TS/IS Chapter 5: And yet - Distinguishing what you say from what they say](https://wwnorton.com/books/9780393538700)
+
+
+**Thursday, 10 Mar** | *Neuro Behavior debate - debate day!*
+* **Readings** : [(Fun read) Maguire et al., 2000](https://elifesciences.org/articles/16534v1)
+* **In class activity** : [Guess the argument](/assets/psych1140/files/PSYCH1140_PeerReview1.pdf). *This exercise won the [John S. Knight Award](https://knight.as.cornell.edu/knight-prizes-awards#prizes-for-instructors) honorable mention.* 
