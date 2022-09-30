@@ -7,7 +7,7 @@ importance: 3
 category: data visualization
 ---
 
-This page contains my contribution to the [TidyTuesday](https://github.com/rfordatascience/tidytuesday) challenge. This challenge is intended for people to practice data wrangling and data visualization skills using at the R ecosystem. A new dataset is posted every Tuesday for the community to explore/ quantify/ process and use to make meaningful visualizations.  
+This page contains my contribution to the [TidyTuesday](https://github.com/rfordatascience/tidytuesday) challenge. This challenge is intended for people to practice data wrangling and data visualization skills using the R ecosystem. A new dataset is posted every Tuesday for the community to explore/ quantify/ manipulate and use to make meaningful visualizations.  
 
 All figures on this page were created purely in R (no involvement of other software/ tools). Code for each plot can be found on my [GitHub](https://github.com/ksasmita/TidyTuesday) page. 
 
