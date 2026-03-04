@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <em>Cognitive Neuroscientist</em> | <em><a href='https://psychology.cornell.edu/'>Cornell Psychology</a></em>
+subtitle: <em>Cognitive Neuroscientist</em> | <em><a href='https://scholar.google.com/citations?user=1bTVQfYAAAAJ&hl=en'>National University of Singapore</a></em>
 profile:
   align: right
   image: prof_pic.jpg
@@ -17,7 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a 5th year Ph.D. candidate working with Prof. **Khena Swallow** in the [Attention, Memory, & Perception lab](https://amp-lab.psych.cornell.edu/). 
+Hi! I'm a Research Fellow working with Prof. [**Christopher L., Asplund**](https://sites.google.com/site/asplundcl/) in the Attention, Control, and & Training Lab at the [N1 Institute for Health](https://n1labs.org/), National University of Singapore. 
+
+I graduated from [Cornell Psychology](https://psychology.cornell.edu/) where I worked with Prof. **Khena Swallow** in the [Attention, Memory, & Perception lab](https://amp-lab.psych.cornell.edu/). 
 
 My research examines whether structures embedded within everyday experience (e.g., **event boundaries**) influence *how* we dynamically source information and allocate attention over time, and consequently *why* we remember certain parts of experience better than others.  
 
